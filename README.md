@@ -1,36 +1,56 @@
-![Welcome Banner](https://your-image-link.com/banner.png)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:203a43&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-# Hi, I'm Sugam 👋
-🚀 ERP Graduate | Business Analyst | Data Analytics Enthusiast  
+# Hi, I'm Sugam 👋  
+ERP Graduate | Business Analyst | Data Analytics Enthusiast  
 
-- 🔭 I’m currently working on a **Data Analysis project for AusiFood**  
-- 🌱 Learning **Power BI & Advanced SQL**  
-- 💬 Ask me about **ERP (SAP MM, SD, PP, FICO)** and **Process Improvement**  
-- ⚡ Fun fact: I love turning messy data into beautiful insights 📊  
+🎓 **Master of Enterprise Resource Planning Systems** (SAP MM, SD, PP, FICO)  
+💼 5+ years in **Business & Data Analysis, Process Improvement, and CRM Implementations**  
+🏛 Experience across **Public Sector (NSW Government)** and **Private Sector (AI/ML, SaaS)**  
+
+---
+
+## 🚀 What I'm Working On
+- 📊 Data analysis project: **AusiFood - Organic Wholesaler Insights**
+- 📈 Learning **Power BI & Advanced SQL**
+- 🤖 Preparing for **Salesforce AI Certification**
+- 🗺 Exploring **state nomination pathways in Australia**
 
 ---
 
 ## 🛠 My Skill Set
-**Software Development:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Data Analytics:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+**ERP & CRM Systems**  
+![SAP](https://img.shields.io/badge/SAP-MM,SD,PP,FICO-0FAAFF?logo=sap&logoColor=white)
+![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?logo=microsoft&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-ff3e3e?logo=monday&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-FF4F00?logo=zoho&logoColor=white)
+
+**Business Analysis & Process Improvement**  
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-000000?logo=uml&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7C922?logo=miro&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-
-**DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
-## 📂 My Projects
-1. [AusiFood Data Analysis](https://github.com/YourUsername/AusiFood-Data-Analysis)  
-2. [Customer Feedback Dashboard](https://github.com/YourUsername/Customer-Feedback-Dashboard)  
-3. [ERP Process Improvement Case Study](https://github.com/YourUsername/ERP-Case-Study)
+## 📂 Featured Projects
+1. [AusiFood Data Analysis](https://github.com/YourUsername/AusiFood-Data-Analysis) – Sales trends, customer feedback, and operational insights  
+2. [Customer Feedback Dashboard](https://github.com/YourUsername/Customer-Feedback-Dashboard) – Power BI dashboard for sentiment tracking  
+3. [ERP Process Improvement Case Study](https://github.com/YourUsername/ERP-Case-Study) – SAP-based process optimization  
+4. [CRM Workflow Automation](https://github.com/YourUsername/CRM-Workflow-Automation) – Monday.com & HubSpot integrations
 
 ---
 
-✨ _“Turning data into decisions, one insight at a time.”_ ✨
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugamrijal1)  
+[![Email](https://img.shields.io/badge/Email-sugamrijal%40gmail.com-red?logo=gmail&logoColor=white)](mailto:sugamrijal@gmail.com)
+
+---
+
+✨ *“Turning data into decisions, one insight at a time.”* ✨
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:203a43&height=100&section=footer)
