@@ -18,7 +18,27 @@ ERP Graduate | Business Analyst | Data Analytics Enthusiast
 
 ---
 
-## 🛠 My Skill Set
+## 🛠 My Skill Set## 🛠 My Skill Set  
+
+<p align="left">
+  <!-- ERP & CRM Systems -->
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/microsoft/002050" alt="Microsoft Dynamics 365" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/mondaycom/ff3e3e" alt="Monday.com" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="HubSpot" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/zoho/FF4F00" alt="Zoho CRM" width="60" height="60"/>
+</p>
+
+<p align="left">
+  <!-- Business Analysis & Data -->
+  <img src="https://cdn.simpleicons.org/jira/0052CC" alt="JIRA" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/miro/F7C922" alt="Miro" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/postgresql/003B57" alt="SQL" width="60" height="60"/>
+</p>
 
 **ERP & CRM Systems**  
 ![SAP](https://img.shields.io/badge/SAP-MM,SD,PP,FICO-0FAAFF?logo=sap&logoColor=white)
