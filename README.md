@@ -18,8 +18,7 @@ ERP Graduate | Business Analyst | Data Analytics Enthusiast
 
 ---
 
-## 🛠 My Skill Set## 🛠 My Skill Set  
-
+## 🛠 My Skill Set## 🛠
 
 **ERP & CRM Systems**  
 ![SAP](https://img.shields.io/badge/SAP-MM,SD,PP,FICO-0FAAFF?logo=sap&logoColor=white)
@@ -36,14 +35,6 @@ ERP Graduate | Business Analyst | Data Analytics Enthusiast
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-
----
-
-## 📂 Featured Projects
-1. [AusiFood Data Analysis](https://github.com/YourUsername/AusiFood-Data-Analysis) – Sales trends, customer feedback, and operational insights  
-2. [Customer Feedback Dashboard](https://github.com/YourUsername/Customer-Feedback-Dashboard) – Power BI dashboard for sentiment tracking  
-3. [ERP Process Improvement Case Study](https://github.com/YourUsername/ERP-Case-Study) – SAP-based process optimization  
-4. [CRM Workflow Automation](https://github.com/YourUsername/CRM-Workflow-Automation) – Monday.com & HubSpot integrations
 
 ---
 
