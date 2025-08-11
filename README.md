@@ -52,6 +52,6 @@ ERP Graduate | Business Analyst | Data Analytics Enthusiast
 
 ---
 
-✨ *“Turning data into decisions, one insight at a time.”* ✨
+✨ *“Bridging business needs with technology solutions.”* ✨
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:203a43&height=100&section=footer)
