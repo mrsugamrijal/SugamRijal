@@ -10,10 +10,11 @@ ERP Graduate | Business Analyst | Data Analytics Enthusiast
 ---
 
 ## 🚀 What I'm Working On
-- 📊 Data analysis project: **AusiFood - Organic Wholesaler Insights**
-- 📈 Learning **Power BI & Advanced SQL**
-- 🤖 Preparing for **Salesforce AI Certification**
-- 🗺 Exploring **state nomination pathways in Australia**
+- 🏛 Working in the Corporate Services team with DCJ  
+- 📚 Expanding my ERP system knowledge base  
+- 🔍 Exploring process refinement use-cases and case studies  
+- 💼 Exploring roles as a Business Analyst or Systems Analyst  
+
 
 ---
 
